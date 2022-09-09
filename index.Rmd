@@ -67,7 +67,7 @@ background-size: cover
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Les slides de présentation par Nicolas Bressoud sont soumises à une licence <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
 
 ---
-class: left
+class: middle left
 
 
 ```{r xaringan-logo, echo=FALSE}
@@ -79,9 +79,6 @@ xaringanExtra::use_logo(
 xaringanExtra::use_progress_bar(color = "#D2202B", location = "top", height = "12px")
 
 ```
-
-
-class: middle left
 
 .pull-left[
 
